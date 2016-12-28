@@ -1,0 +1,11 @@
+{
+    "count": 1,
+    "products":[
+        { "id": 1, "name": "Batteries", "mesh": { "obj": "nike-air-max-low-poly.obj", "mtl": "nike-air-max-low-poly.mtl"} },
+        { "id": 2, "name": "RC Car", "mesh": { "obj": "nike-air-max-low-poly.obj", "mtl": "nike-air-max-low-poly.mtl"} },
+        { "id": 3, "name": "Batteries", "mesh": { "obj": "nike-air-max-low-poly.obj", "mtl": "nike-air-max-low-poly.mtl"} },
+        { "id": 4, "name": "RC Car", "mesh": { "obj": "nike-air-max-low-poly.obj", "mtl": "nike-air-max-low-poly.mtl"} },
+        { "id": 5, "name": "Batteries", "mesh": { "obj": "nike-air-max-low-poly.obj", "mtl": "nike-air-max-low-poly.mtl"} },
+        { "id": 6, "name": "RC Car", "mesh": { "obj": "nike-air-max-low-poly.obj", "mtl": "nike-air-max-low-poly.mtl"} }
+    ]
+}

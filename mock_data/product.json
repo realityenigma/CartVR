@@ -1,0 +1,13 @@
+{
+    "name": "Batteries",
+    "description": "",
+    "price": 1.99,
+    "model":{
+        "obj":"",
+        "mtl":""
+    },
+    "categories": [
+        "Featured",
+        "Accessories"
+    ]
+}
